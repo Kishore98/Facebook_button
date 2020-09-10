@@ -1,6 +1,5 @@
 import React from 'react';
-import LoginPage from './comp/LoginPage';
-
+import Facebook from './Component/Facebook';
 
 function App() {
 
@@ -9,7 +8,7 @@ function App() {
     <div className="App">
      <h3>Welcome to FaceBook</h3>
      <div className='app'>
-     <LoginPage />
+     <Facebook />
      </div>
        
     </div>
